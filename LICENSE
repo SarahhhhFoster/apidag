@@ -1,7 +1,9 @@
 APIDAG Open License (Non-OSI)
 Copyright (c) 2025 Sarah Foster
 
-Permission is hereby granted, free of charge, to any person or party not operating as or as a subsidiary of the following or any entity previously known as the following:
+Permission is hereby granted, free of charge, to any person or party not
+operating as or as a subsidiary of the following or any entity previously known
+as the following:
 
 * Palantir
 * Anduril
@@ -26,10 +28,21 @@ Permission is hereby granted, free of charge, to any person or party not operati
 * The US Department of Government Efficiency
 * Behringer / Music Tribe
 
-obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+obtaining a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including without
+limitation the rights to use, copy, modify, merge, publish, distribute,
+sublicense, and/or sell copies of the Software, and to permit persons to whom
+the Software is furnished to do so, subject to the following conditions:
 
-1. The above copyright notice, permission notice, and complete list of excluded entities shall be included in all copies or substantial portions of the Software.
-2. No license shall be granted to the aforementioned entities.
-3. This license is intentionally not OSI-approved while remaining open source for qualified users.
+1. The above copyright notice, permission notice, and complete list of excluded
+2. entities shall be included in all copies or substantial portions of the
+   Software.
+3. No license shall be granted to the aforementioned entities.
+4. This license is intentionally not OSI-approved while remaining open source
+   for qualified users.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
