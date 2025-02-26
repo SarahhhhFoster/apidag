@@ -1,6 +1,6 @@
 [project]
 name = "apidag"
-version = "0.2.0"
+version = "0.2.1"
 authors = [
   { name="Sarahhhh", email="sarahhhhfoster@gmail.com" },
 ]
@@ -17,6 +17,7 @@ dependencies = [
   'jsonpath-ng >= 1.5.0, < 2',
   'typing-extensions >= 4.0.0',
   'asyncio >= 3.4.3',
+  'networkx >= 3.4.2',
 ]
 
 [tool.setuptools]

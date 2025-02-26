@@ -1,7 +1,0 @@
-Metadata-Version: 2.2
-Name: apidag
-Version: 0.1.0
-Requires-Dist: networkx>=2.0
-Requires-Dist: aiohttp>=3.8.0
-Requires-Dist: jsonpath-ng>=1.5.0
-Dynamic: requires-dist
